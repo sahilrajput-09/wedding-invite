@@ -65,12 +65,12 @@ window.WEDDING_CONFIG = {
     },
   ],
 
-  venue: {
-    name: "Shree Bharat Party Plot",
-    address: "Vandavan Party Plot, Ahmedabad, Gujarat 380026",
-    // What gets searched when a guest taps "Open in Maps"
-    mapsQuery: "SHREE BHARAT PARTY PLOT, AHMEDABAD",
-  },
+  
+venue: {
+  name: "SHREE BHARAT PARTY PLOT",
+  address: "SHREE BHARAT PARTY PLOT, Ahmedabad, Gujarat, India",
+  mapsQuery: "https://www.google.co.in/maps/place/SHREE+BHARAT+PARTY+PLOT/@23.0029547,72.6342269,17z/",
+},
 
   rsvp: {
     // Replace with the couple's real Google Form (use the /viewform link)
