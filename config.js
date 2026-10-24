@@ -49,7 +49,7 @@ window.WEDDING_CONFIG = {
       icon: "wedding",
       date: "Friday, 20 Nov 2026",
       time: "Baraat 5:30 PM · Pheras 7:08 PM",
-      venue: "The Royal Palace Gardens",
+      venue: "Shree Bharat Party Plot",
       line: "Seven vows around the sacred fire",
       accent: "#7A1F3D",
     },
@@ -81,7 +81,7 @@ venue: {
   // Scratch-card hidden message
   scratch: {
     heading: "A little secret, just for you",
-    message: "You hold a special place in our story — join us for a private family dinner on the 25th. Shhh! 🤫",
+    message: "You hold a special place in our story — join us for a private family dinner on the 19th. Shhh! 🤫",
   },
 
   // Theme — the royal palette (matches the origami film)
